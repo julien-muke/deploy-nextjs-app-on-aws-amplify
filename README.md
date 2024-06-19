@@ -7,7 +7,8 @@ In this demo, i'm going to show you how i deployed my portfolio website to AWS w
 
 ## <a name="design">📐 Project Architecture</a>
 
-![Nextjs-5](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/5d3b4cac-4e68-4f42-a2c3-919f4cfb9988)
+![Nextjs-9](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/ff268da1-4ef4-40b8-9bec-cee842426f82)
+
 
 ## 📝 Prerequisites
 
