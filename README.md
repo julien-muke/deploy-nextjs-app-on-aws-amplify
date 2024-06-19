@@ -9,7 +9,7 @@ In this demo, i'm going to show you how i deployed my portfolio website to AWS w
 
 ![Nextjs-5](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/5d3b4cac-4e68-4f42-a2c3-919f4cfb9988)
 
-**Prerequisites**
+## 📝 Prerequisites
 
 Before you begin this tutorial, complete the following prerequisites.
 
