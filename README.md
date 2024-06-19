@@ -92,11 +92,19 @@ To connect an app in a Git repository:
 
 ![Screenshot 2024-06-19 at 12 35 48](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/6995955e-4c5e-4f05-8248-739f5aafea30)
 
+4. If this is the first time connecting a GitHub repository, A new page opens in your browser on GitHub.com, requesting permission to authorize AWS Amplify in your GitHub account. 
 
-4. On the Add repository branch page do the following:
+On the Add repository branch page do the following:
    <br>* Select the name of the repository to connect
    <br>* Select the name of the repository branch to connect
    <br>* Choose Next
+
+5. Choose Install & Authorize.
+
+![Screenshot 2024-06-19 at 12 42 07](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/5fdfc427-4042-417c-8a33-5a3637e8b7e2)
+
+
+
 
 
 
