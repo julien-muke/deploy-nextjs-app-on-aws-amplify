@@ -35,13 +35,11 @@ Step 1. Create and configure a Next.js 14 app
 
 Step 2. Push your Next.js 14 app to GitHub
 
-Step 3. Set up AWS Amplify
+Step 3. Set up AWS Amplify & Deploy the Next.js 14 app
 
-Step 4. Deploy the Next.js 14 app
+Step 4. Set up a custom domain in AWS Route 53
 
-Step 5. Set up a custom domain in AWS Route 53
-
-Step 6. Configure the custom domain in AWS Amplify
+Step 5. Configure the custom domain in AWS Amplify
 
 
 ## ➡️ Step 1 - Create and configure a Next.js 14 app
@@ -76,7 +74,7 @@ git remote add origin <your_repository_url>
 git push -u -f origin master
 ```
 
-## ➡️ Step 3 - Set up AWS Amplify
+## ➡️ Step 3 - Set up AWS Amplify & Deploy the Next.js 14 app
 
 In this step, you connect your Next.js application in a Git repository to Amplify Hosting.
 
@@ -126,8 +124,7 @@ As you can see below our Nextjs App has been deployed successfully to AWS Amplif
 ![Screenshot 2024-06-19 at 13 05 50](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/850f9dd0-ed70-4cde-9618-e37e5ad20c44)
 
 
-
-
+## ➡️ Step 4 - Set up a custom domain in AWS Route 53
 
 
 
