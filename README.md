@@ -100,8 +100,6 @@ To connect an app in a Git repository:
 
 8. Choose Install & Authorize.
 
-![Screenshot 2024-06-19 at 12 42 07](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/5fdfc427-4042-417c-8a33-5a3637e8b7e2)
-
 9. You are redirected to the Add repository branch page for your app in the Amplify console.
 
 10. In the Recently updated repositories list, select the name of the repository to connect.
