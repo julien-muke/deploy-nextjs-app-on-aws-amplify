@@ -13,15 +13,15 @@ In this demo, i'm going to show you how i deployed my portfolio website to AWS w
 
 Before you begin this tutorial, complete the following prerequisites.
 
-# Sign up for an AWS account: 
+### Sign up for an AWS account: 
 
 If you are not already an AWS customer, you need to ![create an AWS account](https://portal.aws.amazon.com/billing/signup#/start/email) by following the online instructions. Signing up enables you to access Amplify and other AWS services that you can use with your application.
 
-# Create an application:
+### Create an application:
 
 Create a basic Next.js application to use for this tutorial, using the ![create-next-app](https://nextjs.org/docs/app/api-reference/create-next-app) instructions in the Next.js documentation.
 
-# Create a Git repository:
+### Create a Git repository:
 
 Amplify supports GitHub, Bitbucket, GitLab, and AWS CodeCommit. Push your `create-next-app` application to your Git repository.
 
