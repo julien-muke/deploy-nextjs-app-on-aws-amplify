@@ -94,14 +94,37 @@ To connect an app in a Git repository:
 
 4. If this is the first time connecting a GitHub repository, A new page opens in your browser on GitHub.com, requesting permission to authorize AWS Amplify in your GitHub account. 
 
-On the Add repository branch page do the following:
-   <br>* Select the name of the repository to connect
-   <br>* Select the name of the repository branch to connect
-   <br>* Choose Next
+5. Next, you must install the Amplify GitHub App in your GitHub account. A page opens on Github.com requesting permission to install and authorize AWS Amplify in your GitHub account.
 
-5. Choose Install & Authorize.
+6. Select the GitHub account where you want to install the Amplify GitHub App.
+
+7. To limit the installation to the specific repositories that you select, choose Only select repositories. Make sure to include the repo for the app that you are migrating in the repos that you select.
+
+8. Choose Install & Authorize.
 
 ![Screenshot 2024-06-19 at 12 42 07](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/5fdfc427-4042-417c-8a33-5a3637e8b7e2)
+
+9. You are redirected to the Add repository branch page for your app in the Amplify console.
+
+10. In the Recently updated repositories list, select the name of the repository to connect.
+
+11. In the Branch list, select the name of the repository branch to connect.
+
+12. Choose Next.
+
+![Screenshot 2024-06-19 at 12 54 48](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/76ab9821-3cd5-4044-bdd6-dd2b21f3d954)
+
+13. On the Review page, choose Save and deploy.
+
+As you can see below our Nextjs App has been deployed successfully to AWS Amplify.
+
+14. Choose Visit deployed URL
+
+![Screenshot 2024-06-19 at 13 00 55](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/4183b429-9dd7-4c5f-8463-d840a6b9cd77)
+
+
+![Screenshot 2024-06-19 at 13 05 50](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/850f9dd0-ed70-4cde-9618-e37e5ad20c44)
+
 
 
 
