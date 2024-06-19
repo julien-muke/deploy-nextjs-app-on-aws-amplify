@@ -82,13 +82,21 @@ In this step, you connect your Next.js application in a Git repository to Amplif
 
 To connect an app in a Git repository:
 
-1. Open the Amplify console
+1. Open the ![Amplify console](https://console.aws.amazon.com/amplify/)
 2. Choose Create new app at the top of the page.
-3. On the Start building with Amplify page, choose your Git repository provider, then choose Next.
+
+![Screenshot 2024-06-19 at 12 34 32](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/30ed747b-5fdb-4622-b5e1-10212bbadbb2)
+
+
+3. On the Start building with Amplify page, choose your Git repository provider, then choose Next
+
+![Screenshot 2024-06-19 at 12 35 48](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/6995955e-4c5e-4f05-8248-739f5aafea30)
+
+
 4. On the Add repository branch page do the following:
-* Select the name of the repository to connect.
-* Select the name of the repository branch to connect.
-* Choose Next.
+   <br>* Select the name of the repository to connect
+   <br>* Select the name of the repository branch to connect
+   <br>* Choose Next
 
 
 
