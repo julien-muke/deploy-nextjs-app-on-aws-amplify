@@ -50,11 +50,11 @@ npx create-next-app@latest YOUR-PROJECT-NAME
 
 Once you created the application, navigate to the project directory and open your project with a code editor (VS code). You can create more files within your application.
 
-For me, i've built my portfolio website with Next.js for handling the user interface, Three.js for rendering 3D elements, Framer motion for beautiful animations, and styled with TailwindCSS.
+For me, i've built my portfolio website with Next.js, Three.js, Framer Motion, and TailwindCSS.
 
 ![3D Screen Mockup 03_EDIT_01-JM-min](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/06009c5c-6ea5-4afb-a199-764df861d4fd)
 
-Note: If you want a website example, i have a few React.js apps in my [GitHub repo](https://github.com/julien-muke) that you can clone into your local machine and use for this AWS demo. Feel free to follow and give it a star ⭐
+Note: I have a few React.js apps in my [GitHub repo](https://github.com/julien-muke) that you can clone into your local machine and use for this AWS demo. Feel free to follow and give it a star ⭐
 
 
 ## ➡️ Step 2 - Push your Next.js 14 app to GitHub
@@ -171,7 +171,7 @@ For that, i'm going to choose `Create hosted zone on Route 53`
 
 NOTE: It can take up to 24 hours for the DNS to propagate and to issue the certificate. 
 
-**Let's test Nextjs Website Portfolio by visisting 🌐[www.julienmuke.cloud](https://www.julienmuke.cloud)**
+**Let's test Nextjs Website Portfolio by visiting 🌐[www.julienmuke.cloud](https://www.julienmuke.cloud)**
 
 
 ![Screenshot 2024-06-19 at 15 11 10](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/294a02bd-9bed-4412-b147-c86abf5bfaff)
