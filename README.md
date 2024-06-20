@@ -151,5 +151,28 @@ For that, i'm going to choose `Create hosted zone on Route 53`
 ![Screenshot 2024-06-19 at 13 11 19](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/4c4afc21-6c8d-451a-858f-b9431b99eee5)
 
 
-6. 
+6. Under Hosted zone name servers, Copy the name servers below and paste them into your domain registry DNS Records to proceed.
+
+7. Custom SSL certificate, choose Amplify managed certificate.
+
+8. Choose Add domain.
+
+![AWS-Amplify-us-east-1(4)](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/89b0e906-f7a8-46f2-a5ce-cfa013f7f039)
+
+
+9. The Amplify domain configuration  will:
+
+<br> * Issue an SSL certificate to secure traffic to your custom domain.
+<br> * Add subdomains records to your DNS provider to point your subdomains to the Amplify domain.
+
+![Screenshot 2024-06-19 at 13 39 51](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/f3c6110c-4c50-4dae-b0c0-e28abf639111)
+
+10. By default, Amplify automatically creates two subdomain entries for your domain. For example, if your domain name is example.com, you will see the subdomains https://www.example.com and https://example.com with a redirect set up from the root domain to the www subdomain.
+
+
+![Screenshot 2024-06-19 at 13 46 40](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/a1c10367-3d36-4f1a-8d40-31c5503357a7)
+
+
+11. 
+
 
