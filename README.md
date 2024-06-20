@@ -121,7 +121,22 @@ As you can see below our Nextjs App has been deployed successfully to AWS Amplif
 
 ## ➡️ Step 4 - Set up a custom domain in AWS Route 53
 
+To add a custom domain managed by Route 53:
+
+1. In your Amplify Console, choose your app that you want to connect to a custom domain in my case `julienmuke.cloud`
+2. In the navigation pane, under Overview > Hosting > Custom domains
+
+![Screenshot 2024-06-19 at 13 10 19](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/33416e0a-2fc6-459f-a77f-50a251da16ae)
 
 
+3. Use your own custom domain with free HTTPS to provide a secure, friendly URL for your app. Register your domain on ![Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/domain-register.html) for a one-click setup, or connect any domain registered on a 3rd party provider.
 
+NOTE: As a 3rd party provider, i have purchased my domain on ![Hostinger](https://www.hostinger.com/) named `julienmuke.cloud` 
+
+
+4. Amplify can create a hosted zone in Amazon Route 53 for you. This will ensure better integration with the Amplify Console. It will also confirm your ownership of this domain and allow faster deployment.
+
+For that, i'm going to choose `Create hosted zone on Route 53`
+
+5. Choose Configure domain.
 
