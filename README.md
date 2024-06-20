@@ -180,7 +180,9 @@ NOTE: It can take up to 24 hours for the DNS to propagate and to issue the certi
 
 ![Screenshot 2024-06-19 at 15 11 10](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/294a02bd-9bed-4412-b147-c86abf5bfaff)
 
+## 💰 Cost
 
+All services used are eligible for the AWS Free Tier. However, charges will incur at some point so it's recommended that you shut down resources after completing this tutorial.
 
 
 
