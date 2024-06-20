@@ -175,7 +175,7 @@ For that, i'm going to choose `Create hosted zone on Route 53`
 
 NOTE: It can take up to 24 hours for the DNS to propagate and to issue the certificate. 
 
-## Let's test our Nextjs Website Portfilio by visisting 🌐 ![www.julienmuke.cloud](https://www.julienmuke.cloud/)
+## Let's test Nextjs Website Portfolio by visisting 🌐 ![www.julienmuke.cloud](https://www.julienmuke.cloud)
 
 ![Screenshot 2024-06-19 at 15 11 10](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/294a02bd-9bed-4412-b147-c86abf5bfaff)
 
