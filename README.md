@@ -102,9 +102,9 @@ To connect an app in a Git repository:
 
 9. You are redirected to the Add repository branch page for your app in the Amplify console.
 
-10. In the Recently updated repositories list, select the name of the repository to connect.
+10. In the Recently updated repositories list, select the name of the repository to connect, in my case `julien-muke/julienmuke.cloud`.
 
-11. In the Branch list, select the name of the repository branch to connect.
+11. In the Branch list, select the name of the repository branch to connect `main`
 
 12. Choose Next.
 
@@ -116,10 +116,7 @@ As you can see below our Nextjs App has been deployed successfully to AWS Amplif
 
 14. Choose Visit deployed URL
 
-![Screenshot 2024-06-19 at 13 00 55](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/4183b429-9dd7-4c5f-8463-d840a6b9cd77)
-
-
-![Screenshot 2024-06-19 at 13 05 50](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/850f9dd0-ed70-4cde-9618-e37e5ad20c44)
+![Screenshot 2024-06-19 at 13 00 55](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/93bbf786-cf86-4b88-ad1f-9b62c020fd00)
 
 
 ## ➡️ Step 4 - Set up a custom domain in AWS Route 53
