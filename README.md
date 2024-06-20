@@ -16,15 +16,15 @@ Before you begin this tutorial, complete the following prerequisites.
 
 * **Sign up for an AWS account:**
 
-You need to ![create an AWS account](https://portal.aws.amazon.com/billing/signup#/start/email) by following the online instructions. Signing up enables you to access Amplify and other AWS services that you can use with your application.
+You need to [create an AWS account](https://portal.aws.amazon.com/billing/signup#/start/email) by following the online instructions. Signing up enables you to access Amplify and other AWS services that you can use with your application.
 
 * **Create an application:**
 
-Create a basic Next.js application to use for this tutorial, using the ![create-next-app](https://nextjs.org/docs/app/api-reference/create-next-app) instructions in the Next.js documentation.
+Create a basic Next.js application to use for this tutorial, using the [create-next-app](https://nextjs.org/docs/app/api-reference/create-next-app) instructions in the Next.js documentation.
 
 * **Create a Git repository:**
 
-Amplify supports ![GitHub](https://github.com/signup), Bitbucket, GitLab, and AWS CodeCommit. Push your `create-next-app` application to your Git repository.
+Amplify supports [GitHub](https://github.com/signup), Bitbucket, GitLab, and AWS CodeCommit. Push your `create-next-app` application to your Git repository.
 
 
 ## <a name="steps">☑️ Steps</a>
@@ -54,7 +54,7 @@ For me, i've built my portfolio website with Next.js for handling the user inter
 
 ![3D Screen Mockup 03_EDIT_01-JM-min](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/06009c5c-6ea5-4afb-a199-764df861d4fd)
 
-Note: If you want a website example, i have a few React.js apps in my ![GitHub repo](https://github.com/julien-muke) that you can clone into your local machine and use for this AWS demo. Feel free to follow and give it a star ⭐
+Note: If you want a website example, i have a few React.js apps in my [GitHub repo](https://github.com/julien-muke) that you can clone into your local machine and use for this AWS demo. Feel free to follow and give it a star ⭐
 
 
 ## ➡️ Step 2 - Push your Next.js 14 app to GitHub
@@ -78,7 +78,7 @@ In this step, you connect your Next.js application in a Git repository to Amplif
 
 To connect an app in a Git repository:
 
-1. Open the ![Amplify console](https://console.aws.amazon.com/amplify/)
+1. Open the [Amplify console](https://console.aws.amazon.com/amplify/)
 2. Choose Create new app at the top of the page.
 
 ![Screenshot 2024-06-19 at 12 34 32](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/30ed747b-5fdb-4622-b5e1-10212bbadbb2)
@@ -137,7 +137,7 @@ To add a custom domain managed by Route 53:
 
 3. Use your own custom domain with free HTTPS to provide a secure, friendly URL for your app. Register your domain on ![Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/domain-register.html) for a one-click setup, or connect any domain registered on a 3rd party provider.
 
-NOTE: As a 3rd party provider, i have purchased my domain on ![Hostinger](https://www.hostinger.com/) named `julienmuke.cloud` 
+NOTE: As a 3rd party provider, i have purchased my domain on [Hostinger](https://www.hostinger.com/) named `julienmuke.cloud` 
 
 
 4. Amplify can create a hosted zone in Amazon Route 53 for you. This will ensure better integration with the Amplify Console. It will also confirm your ownership of this domain and allow faster deployment.
