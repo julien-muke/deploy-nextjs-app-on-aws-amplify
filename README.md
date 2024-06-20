@@ -115,7 +115,7 @@ To connect an app in a Git repository:
 14. The procedure for adding a service role varies depending on whether you want to create a new role or use an existing one.
 
 
-![AWS-Amplify-us-east-1](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/de8e681d-e539-4e54-a043-24745992b24e)
+![AWS-Amplify-us-east-1](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/e9ef7fac-2bed-4c4f-9937-f615784980c2)
 
 
 15. On the Review page, confirm that your repository details and app settings are correct, choose Save and deploy.
@@ -147,4 +147,9 @@ NOTE: As a 3rd party provider, i have purchased my domain on ![Hostinger](https:
 For that, i'm going to choose `Create hosted zone on Route 53`
 
 5. Choose Configure domain.
+
+![Screenshot 2024-06-19 at 13 11 19](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/4c4afc21-6c8d-451a-858f-b9431b99eee5)
+
+
+6. 
 
