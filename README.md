@@ -72,7 +72,7 @@ git remote add origin <your_repository_url>
 git push -u -f origin master
 ```
 
-## ➡️ Step 3 - Set up AWS Amplify & Deploy the Next.js 14 app
+## ➡️ Step 3 - Set up AWS Amplify & Deploy the Next.js App
 
 In this step, you connect your Next.js application in a Git repository to Amplify Hosting.
 
