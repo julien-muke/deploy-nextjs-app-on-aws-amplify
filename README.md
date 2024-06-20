@@ -100,9 +100,9 @@ To connect an app in a Git repository:
 
 9. You are redirected to the Add repository branch page for your app in the Amplify console.
 
-10. In the Recently updated repositories list, select the name of the repository to connect, in my case `julien-muke/julienmuke.cloud`.
+10. In the Recently updated repositories list, select the name of the repository to connec.
 
-11. In the Branch list, select the name of the repository branch to connect `main`
+11. In the Branch list, select the name of the repository branch to connect.
 
 12. Choose Next.
 
@@ -159,7 +159,6 @@ For that, i'm going to choose `Create hosted zone on Route 53`
 
 
 9. The Amplify domain configuration  will:
-
 <br> * Issue an SSL certificate to secure traffic to your custom domain.
 <br> * Add subdomains records to your DNS provider to point your subdomains to the Amplify domain.
 
