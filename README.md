@@ -110,11 +110,19 @@ To connect an app in a Git repository:
 
 ![Screenshot 2024-06-19 at 12 54 48](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/76ab9821-3cd5-4044-bdd6-dd2b21f3d954)
 
-13. On the Review page, choose Save and deploy.
+13. On the App settings page, Verify that the Frontend build command and Build output directory are correct. For this Next.js example app, the Build output directory is set to `nextjs`
+
+14. The procedure for adding a service role varies depending on whether you want to create a new role or use an existing one.
+
+
+![AWS-Amplify-us-east-1](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/de8e681d-e539-4e54-a043-24745992b24e)
+
+
+15. On the Review page, confirm that your repository details and app settings are correct, choose Save and deploy.
 
 As you can see below our Nextjs App has been deployed successfully to AWS Amplify.
 
-14. Choose Visit deployed URL
+16. Choose Visit deployed URL
 
 ![Screenshot 2024-06-19 at 13 00 55](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/93bbf786-cf86-4b88-ad1f-9b62c020fd00)
 
