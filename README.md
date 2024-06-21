@@ -54,7 +54,7 @@ For me, i've built my portfolio website with Next.js, Three.js, Framer Motion, a
 
 ![3D Screen Mockup 03_EDIT_01-JM-min](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/06009c5c-6ea5-4afb-a199-764df861d4fd)
 
-Note: I have a few React.js apps in my [GitHub repo](https://github.com/julien-muke) that you can clone into your local machine and use for this AWS demo. Feel free to follow and give it a star ⭐
+ℹ️ Note: I have a few React.js apps in my [GitHub repo](https://github.com/julien-muke) that you can clone into your local machine and use for this AWS demo. Feel free to follow and give it a star ⭐
 
 
 ## ➡️ Step 2 - Push your Next.js 14 app to GitHub
