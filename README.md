@@ -136,7 +136,7 @@ To add a custom domain managed by Route 53:
 
 3. Use your own custom domain with free HTTPS to provide a secure, friendly URL for your app. Register your domain on [Amazon Route 53](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/domain-register.html) for a one-click setup, or connect any domain registered on a 3rd party provider.
 
-NOTE: As a 3rd party provider, i have purchased my domain on [Hostinger](https://www.hostinger.com/) named `julienmuke.cloud` 
+ℹ️ NOTE: As a 3rd party provider, i have purchased my domain on [Hostinger](https://www.hostinger.com/) named `julienmuke.cloud` 
 
 
 4. Amplify can create a hosted zone in Amazon Route 53 for you. This will ensure better integration with the Amplify Console. It will also confirm your ownership of this domain and allow faster deployment.
@@ -169,7 +169,7 @@ For that, i'm going to choose `Create hosted zone on Route 53`
 ![Screenshot 2024-06-19 at 13 46 40](https://github.com/julien-muke/deploy-nextjs-app-on-aws-amplify/assets/110755734/a1c10367-3d36-4f1a-8d40-31c5503357a7)
 
 
-NOTE: It can take up to 24 hours for the DNS to propagate and to issue the certificate. 
+ℹ️ NOTE: It can take up to 24 hours for the DNS to propagate and to issue the certificate. 
 
 **Let's test Nextjs Website Portfolio by visiting 🌐[www.julienmuke.cloud](https://www.julienmuke.cloud)**
 
